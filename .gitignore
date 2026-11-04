@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+
+# dbt credentials - never commit these
+profiles.yml
+aws_dbt_snowflake_project/profiles.yml
+aws_dbt_snowflake_project/dbt_project.yml
+aws_dbt_snowflake_project/.user.yml
