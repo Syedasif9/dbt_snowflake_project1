@@ -1,6 +1,7 @@
 # Production job postings pipeline (v2) - dbt +snowflake
 
-![pipeline architecture](image.png)
+<img width="1514" height="808" alt="image" src="https://github.com/user-attachments/assets/3ace53af-0dc0-4f57-9546-d6ac8033f351" />
+
 
 A production dbt pipeline on Snowflake over 843,097 raw job-posting scrapes, rebuilt nightly by a scheduled job with zero secrets.
 
